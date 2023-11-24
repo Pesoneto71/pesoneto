@@ -51,7 +51,7 @@ footer i {font-size: 22px; margin-right: 10px; background: ;}
 
 
 @media screen and (max-width: 500px){
-	.banner-min {background: url(../imagenes/banner-cel.jpg) no-repeat fixed;background-size: cover; height: 350px; filter: brightness(80%); position: relative; width: 100%;}
+	.banner-min {background: url(../imagenes/banner2-cel.jpg) no-repeat fixed;background-size: cover; height: 350px; filter: brightness(80%); position: relative; width: 100%;}
 	.banner-min h1 {position: absolute; top: 50px; left: 20px; color: white; font-size: 50px; font-family: 'Rock Salt', cursive; }
 	.banner-min h2 {position: absolute; top: 120px; left: 20px; color: white; font-size:22px; font-family:'Rock Salt', cursive;}
 	.btn-banner {position: absolute; top: 180px; left: 20px;}
